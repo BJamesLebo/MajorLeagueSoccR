@@ -1,2 +1,0 @@
-# MajorLeagueSoccR
-MLS R Package

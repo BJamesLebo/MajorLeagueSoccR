@@ -12,4 +12,11 @@ team_info <- function(x){
   Franchise[which(Franchise$ShortName == x),]
 }
 
-load_all()
+##Tables
+* Franchise
+    + Information on individual teams such as colors, location, conference, etc.
+* MLS_shot
+    + Detailed info on a team level of shots on a game by game basis. 
+* MLS_ShotsOnTgt_player
+    + Which area of the net a shot on target hit, on a player level.
+

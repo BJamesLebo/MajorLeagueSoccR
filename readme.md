@@ -1,8 +1,12 @@
----
-title: "MajorLeagueSoccR"
-author: "Ben Lebo"
-output: html_document
----
+MajorLeagueSoccR
+========================================================
+
+Version: 1.0  
+Date: 2019-06-15
+
+Authors:
+
+* Ben Lebo
 
 ### Package Dependencies
 library(DT)  
